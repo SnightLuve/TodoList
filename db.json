@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "Play game",
+      "complete": true
+    },
+    {
+      "id": "2",
+      "title": "Play code",
+      "complete": true
+    },
+    {
+      "id": "721b",
+      "title": "Play badminton",
+      "completed": false
+    }
+  ]
+}
